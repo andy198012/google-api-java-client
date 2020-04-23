@@ -1,0 +1,23 @@
+{
+  "files.exclude": {
+    ".gitignore": "explorerExcludedFiles",
+    "dist": "explorerExcludedFiles",
+    "bin": "explorerExcludedFiles",
+    "var": "explorerExcludedFiles",
+    "sdist": "explorerExcludedFiles",
+    "target": "explorerExcludedFiles",
+    ".coverage": "explorerExcludedFiles",
+    ".tox": "explorerExcludedFiles",
+    "nosetests.xml": "explorerExcludedFiles",
+    "*.mo": "explorerExcludedFiles",
+    ".mr.developer.cfg": "explorerExcludedFiles",
+    ".project": "explorerExcludedFiles",
+    ".pydevproject": "explorerExcludedFiles",
+    "*.iml": "explorerExcludedFiles",
+    ".idea": "explorerExcludedFiles",
+    ".settings": "explorerExcludedFiles",
+    ".DS_Store": "explorerExcludedFiles",
+    ".classpath": "explorerExcludedFiles",
+    "*.pyc": "explorerExcludedFiles"
+  }
+}
